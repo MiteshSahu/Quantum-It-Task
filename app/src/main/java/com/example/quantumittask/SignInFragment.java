@@ -124,6 +124,7 @@ public class SignInFragment extends androidx.fragment.app.Fragment implements Go
                                  int check =0;
                                  i.putExtra("checkforlogin",check);
                                  startActivity(i);
+                                 getActivity().finish();
                              }
                         }
                     });
@@ -244,6 +245,7 @@ public class SignInFragment extends androidx.fragment.app.Fragment implements Go
                 int check =1;
                 i.putExtra("checkforlogin",check);
                 startActivity(i);
+                getActivity().finish();
             }
         }
     }
