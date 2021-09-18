@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quantum IT Task</string>
+    <string name="tab_text_1">Sign In</string>
+    <string name="tab_text_2">Sign Up</string>
+    <string name="registernow"><u>Register Now</u></string>
+    <string name="signin"><u>Sign In</u></string>
+    <string name="termsandcondition"><u>Terms and Condition</u></string>
+    <string name="facebook_app_id">604344843907033</string>
+    <string name="fb_login_protocol_scheme">fb604344843907033</string>
+
+</resources>

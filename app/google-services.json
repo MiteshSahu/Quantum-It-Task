@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835526896527",
+    "project_id": "quantum-it-task",
+    "storage_bucket": "quantum-it-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835526896527:android:0ccf628490ec03359bb9fa",
+        "android_client_info": {
+          "package_name": "com.example.quantumittask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835526896527-qptmca94vu2ho7hjf181drb026r2vcpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjY2ZrtquXGttwqmfKM3rq8Q3m2XhImc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835526896527-qptmca94vu2ho7hjf181drb026r2vcpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
